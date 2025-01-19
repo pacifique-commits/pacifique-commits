@@ -1,6 +1,6 @@
-# 👨‍💻 DevOps Engineer | Cloud Enthusiast 🌐
+# 👨‍💻Tech Enthusiast 🌐
 
-Welcome to my GitHub! I’m a passionate DevOps Engineer dedicated to building scalable, secure, and efficient infrastructure solutions. My expertise lies in cloud technologies, automation tools, and continuous integration and deployment pipelines.
+Welcome to my GitHub! I’m a passionate Tech ethusiast dedicated to building scalable, secure, and efficient infrastructure solutions. My expertise lies in cloud technologies, automation tools, and continuous integration and deployment pipelines.
 
 ---
 
