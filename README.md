@@ -1,42 +1,37 @@
-# DevOps engineer  ♾️
+# DevOps Engineer  
 
-Welcome to my GitHub! I’m a passionate Tech ethusiast dedicated to building scalable, secure, and efficient infrastructure solutions. My expertise lies in cloud technologies, automation tools, and continuous integration and deployment pipelines.
-
----
-
-## 🚀 Skills & Expertise
-
-### 🛠 **DevOps Tools & Technologies**
-
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI/CDCI
-- **Containerization:** Docker, Kubernetes
-- **Configuration Management:** Ansible, Terraform
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, Datadog
-
-### ☁ **Cloud Platforms**
-
-- **AWS**: EC2, S3, Route 53, RDS, Lambda, CloudFormation
-- **Azure**: Virtual Machines, Azure DevOps, App Services, Azure Monitor
-- **Google Cloud Platform (GCP)**: Compute Engine, Cloud Functions, Cloud Storage
-
-### 🔄 **Version Control**
-
-- Git, GitHub, GitLab, Bitbucket
-
-### 🔍 **Monitoring & Optimization**
-
-- Performance tuning for infrastructure and applications
-- Implementing robust disaster recovery and high availability solutions
-
-### 📜 **Languages & Scripting**
-
-- **Scripting:** Bash, Python, PowerShell
-- **Development:** JavaScript, YAML
+Welcome to my GitHub! I specialize in **DevOps, Cloud, and Automation**,  
+with hands-on experience in building **secure, scalable, and resilient systems**.  
 
 ---
 
-## 🎯 **What I’m Working On**
+## Skills & Tools  
 
-- Designing fault-tolerant systems using microservices architecture
-- Automating deployment workflows for cloud-native applications
-- Enhancing security in CI/CD pipelines with tools like SonarQube
+**CI/CD** | Jenkins · GitHub Actions · GitLab CI/CD  
+**Containers** | Docker · Kubernetes  
+**IaC & Automation** | Terraform · Ansible  
+**Cloud** | AWS · Azure · GCP  
+**Monitoring** | Prometheus · Grafana · ELK · Datadog  
+**Languages** | Bash · Python · PowerShell · YAML  
+
+---
+
+## GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark)  
+
+---
+
+## Current Focus  
+
+- Automating cloud-native deployments  
+- Designing fault-tolerant microservices  
+- Strengthening CI/CD pipeline security  
+
+---
+
+## Connect With Me  
+
+[LinkedIn](#) · [Portfolio](#) · [Email](#)  
