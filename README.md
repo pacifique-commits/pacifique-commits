@@ -7,22 +7,26 @@ with hands-on experience in building **secure, scalable, and resilient systems**
 
 ## 🔧 Skills & Tools  
 
-**Operating Systems** | Linux (Debian · Red Hat)  
-
-**CI/CD** | Jenkins · GitHub Actions · GitLab CI/CD  
-**Containers** | Docker · Kubernetes  
-**IaC & Automation** | Terraform · Ansible  
-**Cloud** | AWS · Azure · GCP  
-**Monitoring** | Prometheus · Grafana · ELK · Datadog  
-**Languages & Scripting** | Bash · Python · PowerShell · YAML  
+![Linux](https://img.shields.io/badge/Linux-Debian%20%7C%20RedHat-blue?logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/GCP-Cloud-yellow?logo=google-cloud)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-red?logo=ansible)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-D24939?logo=jenkins)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?logo=grafana)
+![Python](https://img.shields.io/badge/Python-Scripting-3776AB?logo=python)
+![Bash](https://img.shields.io/badge/Bash-Shell%20Scripting-4EAA25?logo=gnu-bash)
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 GitHub Trophy  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pacifique-commits&show_icons=true&theme=dark)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pacifique-commits&layout=compact&theme=dark)  
+![trophy](https://github-profile-trophy.vercel.app/?username=pacifique-commits&theme=darkhub&margin-w=10&margin-h=10)
 
 ---
 
